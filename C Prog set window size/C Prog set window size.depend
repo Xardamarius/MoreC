@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635595753 source:c:\users\1\desktop\c++ code\c\les1\prog2\prog2_3\c prog set window size\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635075420 source:c:\users\1\desktop\c++ code\c\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
